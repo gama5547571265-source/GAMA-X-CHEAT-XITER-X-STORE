@@ -1,12 +1,1 @@
-
-window.firebaseConfig = {
-  apiKey: "AIzaSyAd5KNh5H6KaQ9nv8FP3keyFRh28zSwfLM",
-  authDomain: "gama-xiter.firebaseapp.com",
-  databaseURL: "https://gama-xiter-default-rtdb.firebaseio.com",
-  projectId: "gama-xiter",
-  storageBucket: "gama-xiter.firebasestorage.app",
-  messagingSenderId: "979348178199",
-  appId: "1:979348178199:web:dd66b3d0d00b76fe61a352",
-  measurementId: "G-4Q4P3GTJN5"
-};
-
+function _0x18ba(){var _0x32453d=['3680SOaMwt','7955960AYmrwR','2946363SBMkTr','16ZaDzCQ','1649583olBrRv','AIzaSyAd5KNh5H6KaQ9nv8FP3keyFRh28zSwfLM','413607vTXAUR','1536ddxQVT','1021668kPnybf','G-4Q4P3GTJN5','firebaseConfig','387076dbbCKB','1:979348178199:web:dd66b3d0d00b76fe61a352','gama-xiter.firebasestorage.app','15iJBxpC'];_0x18ba=function(){return _0x32453d;};return _0x18ba();}function _0x3835(_0x2965b9,_0x15249b){var _0x18ba0e=_0x18ba();return _0x3835=function(_0x38355c,_0x22b8a0){_0x38355c=_0x38355c-0x1e5;var _0x2d7cf4=_0x18ba0e[_0x38355c];return _0x2d7cf4;},_0x3835(_0x2965b9,_0x15249b);}var _0x3ca620=_0x3835;(function(_0x53a4f3,_0x40c197){var _0x5ee729=_0x3835,_0x316879=_0x53a4f3();while(!![]){try{var _0x484bb0=-parseInt(_0x5ee729(0x1eb))/0x1+parseInt(_0x5ee729(0x1ed))/0x2+-parseInt(_0x5ee729(0x1f3))/0x3*(parseInt(_0x5ee729(0x1f0))/0x4)+parseInt(_0x5ee729(0x1e5))/0x5*(-parseInt(_0x5ee729(0x1ec))/0x6)+parseInt(_0x5ee729(0x1e7))/0x7+parseInt(_0x5ee729(0x1e8))/0x8*(-parseInt(_0x5ee729(0x1e9))/0x9)+parseInt(_0x5ee729(0x1e6))/0xa;if(_0x484bb0===_0x40c197)break;else _0x316879['push'](_0x316879['shift']());}catch(_0x4a6641){_0x316879['push'](_0x316879['shift']());}}}(_0x18ba,0x431d1),window[_0x3ca620(0x1ef)]={'apiKey':_0x3ca620(0x1ea),'authDomain':'gama-xiter.firebaseapp.com','databaseURL':'https://gama-xiter-default-rtdb.firebaseio.com','projectId':'gama-xiter','storageBucket':_0x3ca620(0x1f2),'messagingSenderId':'979348178199','appId':_0x3ca620(0x1f1),'measurementId':_0x3ca620(0x1ee)});
